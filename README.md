@@ -513,12 +513,12 @@ Built with the goal of democratizing access to professional-grade financial anal
 🔗 LinkedIn: sourangshu.pal  
 🐙 GitHub: [sourangshupal](https://github.com/sourangshupal)
 
-🔹 **Riyaz Khorasi** - Senior Data Scientist  
+🔹 **Riyaz Khorasi** - Senior Data Scientist - Gen AI
 📧 Email: rkhorasi@sandiego.edu 
 🔗 LinkedIn: riyazkhorasi  
 🐙 GitHub: [riyazkhorasi](https://github.com/Riyazmk1995)
 
-🔹 **Prashant Khare** - Lead AI Systems Architect 
+🔹 **Tanvi Singh** - Software Engineer
 📧 Email: tanvisingh@sandiego.edu
 🔗 LinkedIn: tanvisingh  
 🐙 GitHub:  [https://github.com/tanvisingh-11](https://github.com/tanvisingh-11)
